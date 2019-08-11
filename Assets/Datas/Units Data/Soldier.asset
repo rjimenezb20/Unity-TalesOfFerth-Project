@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8af2a03675451514a98a45ebf75a5f6e, type: 3}
+  m_Name: Soldier
+  m_EditorClassIdentifier: 
+  unitPrefab: {fileID: 100048, guid: 272ec112bddec644a8af6599107e74f7, type: 2}
+  unitName: Soldier
+  health: 10
+  damage: 1
+  range: 2
+  timeBetweenAttacks: 1.5
+  goldCost: 25
+  foodCost: 25
+  woodCost: 25
+  metalCost: 0
+  populationCost: 1

@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 5fdbf4d82b8cbe64b98e2c9355609e26
+timeCreated: 1547217938
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: basecasa
+    100002: basecasa.001
+    100004: Camera
+    100006: //RootNode
+    100008: Cube
+    100010: Cube.001
+    100012: Cube.002
+    100014: Cube.003
+    100016: Cube.004
+    100018: Cube.005
+    100020: Cube.006
+    100022: Cube.007
+    100024: Cube.008
+    100026: Cube.009
+    100028: Cube.010
+    100030: Cube.011
+    100032: Cube.012
+    100034: Cube.013
+    100036: Cube.014
+    100038: Cube.015
+    100040: Cube.016
+    100042: Cube.017
+    100044: Cube.018
+    100046: Cube.019
+    100048: Cube.020
+    100050: Cube.021
+    100052: Cube.022
+    100054: hormigon sostener.000
+    100056: hormigon sostener.001
+    100058: hormigon sostener.002
+    100060: hormigon sostener.003
+    100062: hormigon sostener.004
+    100064: hormigon sostener.005
+    100066: hormigon sostener.006
+    100068: hormigon sostener.007
+    100070: hormigon sostener.008
+    100072: Lamp
+    100074: puerta
+    100076: tejado
+    100078: ventana
+    100080: ventana.001
+    100082: ventana.002
+    100084: ventana.003
+    100086: ventana.004
+    100088: ventana.005
+    400000: basecasa
+    400002: basecasa.001
+    400004: Camera
+    400006: //RootNode
+    400008: Cube
+    400010: Cube.001
+    400012: Cube.002
+    400014: Cube.003
+    400016: Cube.004
+    400018: Cube.005
+    400020: Cube.006
+    400022: Cube.007
+    400024: Cube.008
+    400026: Cube.009
+    400028: Cube.010
+    400030: Cube.011
+    400032: Cube.012
+    400034: Cube.013
+    400036: Cube.014
+    400038: Cube.015
+    400040: Cube.016
+    400042: Cube.017
+    400044: Cube.018
+    400046: Cube.019
+    400048: Cube.020
+    400050: Cube.021
+    400052: Cube.022
+    400054: hormigon sostener.000
+    400056: hormigon sostener.001
+    400058: hormigon sostener.002
+    400060: hormigon sostener.003
+    400062: hormigon sostener.004
+    400064: hormigon sostener.005
+    400066: hormigon sostener.006
+    400068: hormigon sostener.007
+    400070: hormigon sostener.008
+    400072: Lamp
+    400074: puerta
+    400076: tejado
+    400078: ventana
+    400080: ventana.001
+    400082: ventana.002
+    400084: ventana.003
+    400086: ventana.004
+    400088: ventana.005
+    2300000: basecasa
+    2300002: basecasa.001
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Cube.004
+    2300014: Cube.005
+    2300016: Cube.006
+    2300018: Cube.007
+    2300020: Cube.008
+    2300022: Cube.009
+    2300024: Cube.010
+    2300026: Cube.011
+    2300028: Cube.012
+    2300030: Cube.013
+    2300032: Cube.014
+    2300034: Cube.015
+    2300036: Cube.016
+    2300038: Cube.017
+    2300040: Cube.018
+    2300042: Cube.019
+    2300044: Cube.020
+    2300046: Cube.021
+    2300048: Cube.022
+    2300050: hormigon sostener.000
+    2300052: hormigon sostener.001
+    2300054: hormigon sostener.002
+    2300056: hormigon sostener.003
+    2300058: hormigon sostener.004
+    2300060: hormigon sostener.005
+    2300062: hormigon sostener.006
+    2300064: hormigon sostener.007
+    2300066: hormigon sostener.008
+    2300068: puerta
+    2300070: tejado
+    2300072: ventana
+    2300074: ventana.001
+    2300076: ventana.002
+    2300078: ventana.003
+    2300080: ventana.004
+    2300082: ventana.005
+    3300000: basecasa
+    3300002: basecasa.001
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Cube.004
+    3300014: Cube.005
+    3300016: Cube.006
+    3300018: Cube.007
+    3300020: Cube.008
+    3300022: Cube.009
+    3300024: Cube.010
+    3300026: Cube.011
+    3300028: Cube.012
+    3300030: Cube.013
+    3300032: Cube.014
+    3300034: Cube.015
+    3300036: Cube.016
+    3300038: Cube.017
+    3300040: Cube.018
+    3300042: Cube.019
+    3300044: Cube.020
+    3300046: Cube.021
+    3300048: Cube.022
+    3300050: hormigon sostener.000
+    3300052: hormigon sostener.001
+    3300054: hormigon sostener.002
+    3300056: hormigon sostener.003
+    3300058: hormigon sostener.004
+    3300060: hormigon sostener.005
+    3300062: hormigon sostener.006
+    3300064: hormigon sostener.007
+    3300066: hormigon sostener.008
+    3300068: puerta
+    3300070: tejado
+    3300072: ventana
+    3300074: ventana.001
+    3300076: ventana.002
+    3300078: ventana.003
+    3300080: ventana.004
+    3300082: ventana.005
+    4300000: Cube.022
+    4300002: Cube.006
+    4300004: Cube.021
+    4300006: Cube
+    4300008: tejado
+    4300010: basecasa
+    4300012: Cube.001
+    4300014: Cube.002
+    4300016: Cube.003
+    4300018: Cube.004
+    4300020: Cube.005
+    4300022: puerta
+    4300024: hormigon sostener.003
+    4300026: hormigon sostener.000
+    4300028: hormigon sostener.001
+    4300030: hormigon sostener.002
+    4300032: hormigon sostener.004
+    4300034: hormigon sostener.005
+    4300036: hormigon sostener.006
+    4300038: hormigon sostener.007
+    4300040: Cube.007
+    4300042: Cube.008
+    4300044: Cube.009
+    4300046: Cube.010
+    4300048: Cube.011
+    4300050: Cube.012
+    4300052: basecasa.001
+    4300054: Cube.016
+    4300056: Cube.015
+    4300058: Cube.014
+    4300060: Cube.013
+    4300062: hormigon sostener.008
+    4300064: Cube.020
+    4300066: Cube.019
+    4300068: Cube.018
+    4300070: Cube.017
+    4300072: ventana
+    4300074: ventana.001
+    4300076: ventana.002
+    4300078: ventana.003
+    4300080: ventana.004
+    4300082: ventana.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 5446f392c44794f408df802c5b37eb17
+timeCreated: 1547393707
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Cube.001
+    100006: Cube.012
+    100008: Cylinder
+    100010: Lamp
+    100012: Lamp.001
+    100014: puerta
+    100016: //RootNode
+    100018: ventana
+    100020: ventana.001
+    100022: ventana.002
+    100024: ventana.003
+    100026: ventana.004
+    100028: ventana.005
+    400000: Camera
+    400002: Cube
+    400004: Cube.001
+    400006: Cube.012
+    400008: Cylinder
+    400010: Lamp
+    400012: Lamp.001
+    400014: puerta
+    400016: //RootNode
+    400018: ventana
+    400020: ventana.001
+    400022: ventana.002
+    400024: ventana.003
+    400026: ventana.004
+    400028: ventana.005
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.012
+    2300006: Cylinder
+    2300008: puerta
+    2300010: ventana
+    2300012: ventana.001
+    2300014: ventana.002
+    2300016: ventana.003
+    2300018: ventana.004
+    2300020: ventana.005
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.012
+    3300006: Cylinder
+    3300008: puerta
+    3300010: ventana
+    3300012: ventana.001
+    3300014: ventana.002
+    3300016: ventana.003
+    3300018: ventana.004
+    3300020: ventana.005
+    4300000: Cube.001
+    4300002: Cube
+    4300004: Cylinder
+    4300006: Cube.012
+    4300008: puerta
+    4300010: ventana
+    4300012: ventana.001
+    4300014: ventana.002
+    4300016: ventana.003
+    4300018: ventana.004
+    4300020: ventana.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

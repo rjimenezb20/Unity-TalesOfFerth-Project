@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f825f490ab97748be8fa50a15409c5, type: 3}
+  m_Name: ArrowTowerData
+  m_EditorClassIdentifier: 
+  buildingPrefab: {fileID: 1917236618823034, guid: 660817780cb572447b0dff4ce564942a,
+    type: 2}
+  buildingName: ArrowTower
+  health: 80
+  goldCost: 100
+  foodCost: 0
+  woodCost: 50
+  metalCost: 50
+  goldBenefit: 0
+  foodBenefit: 0
+  woodBenefit: 0
+  metalBenefit: 0
+  populationLimit: 0
+  damage: 1
+  timeBetweenAttacks: 0.8
+  proyectilPrefab: {fileID: 1303553419507128, guid: 43629f0d53ec7f64e903fe4529b94004,
+    type: 2}
